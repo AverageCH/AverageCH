@@ -1,7 +1,7 @@
-I’m @AverageCH
-I’m interested in Minecraft
-das about it
-see ya
+-I’m @AverageCH
+-I’m interested in Minecraft
+-das about it
+-see ya
 
 <!---
 AverageCH/AverageCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
